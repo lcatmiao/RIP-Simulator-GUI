@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="RIP Simulator" />
+      <artifact name="RIP-Simulator-GUI" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/RIP-Simulator-GUI/GUI/GUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RIP-Simulator-GUI/GUI/GUI.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/NetworkGraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/resource/img/NetworkGraph.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/NetworkGraphGray.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/NetworkGraphYellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/RIP-original.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/RIP.icns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/RIP.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/RIP.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GUI/GUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/GUI.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +98,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resource/ico/router.ico" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -262,7 +254,7 @@
       <workItem from="1645618133719" duration="238000" />
       <workItem from="1645618842629" duration="14000" />
       <workItem from="1645623411681" duration="916000" />
-      <workItem from="1645624674570" duration="1852000" />
+      <workItem from="1645624674570" duration="2629000" />
     </task>
     <servers />
   </component>
@@ -305,26 +297,30 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1281" height="190" key="GridCell.Tab.0.bottom" timestamp="1645626033615">
+    <state x="421" y="101" key="FileChooserDialogImpl" timestamp="1645627132972">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1281" height="190" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1645626033615" />
-    <state width="1281" height="190" key="GridCell.Tab.0.center" timestamp="1645626033614">
+    <state x="421" y="101" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1645627132972" />
+    <state width="1281" height="190" key="GridCell.Tab.0.bottom" timestamp="1645627160207">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1281" height="190" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1645626033614" />
-    <state width="1281" height="190" key="GridCell.Tab.0.left" timestamp="1645626033614">
+    <state width="1281" height="190" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1645627160207" />
+    <state width="1281" height="190" key="GridCell.Tab.0.center" timestamp="1645627160207">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1281" height="190" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1645626033614" />
-    <state width="1281" height="190" key="GridCell.Tab.0.right" timestamp="1645626033614">
+    <state width="1281" height="190" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1645627160207" />
+    <state width="1281" height="190" key="GridCell.Tab.0.left" timestamp="1645627160207">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1281" height="190" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1645626033614" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1645626528238">
+    <state width="1281" height="190" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1645627160207" />
+    <state width="1281" height="190" key="GridCell.Tab.0.right" timestamp="1645627160207">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1645626528238" />
+    <state width="1281" height="190" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1645627160207" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1645627384153">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1645627384153" />
     <state x="325" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1645600595471">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="RIP-Simulator-GUI">
+    <output-path>$PROJECT_DIR$/out/artifacts/RIP_Simulator_GUI</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="GUI.Main" />
+        <option name="description" value="RIP-Simulator-GUI" />
+        <option name="height" value="650" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="icons">
+          <JavaFxApplicationIcons>
+            <option name="macIcon" value="$PROJECT_DIR$/resource/ico/router.icns" />
+            <option name="windowsIcon" value="$PROJECT_DIR$/resource/ico/router.ico" />
+          </JavaFxApplicationIcons>
+        </option>
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="RIP-Simulator-GUI" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="RIP_Simulator_GUI.jar">
+        <element id="module-output" name="RIP-Simulator-GUI" />
+      </element>
+    </root>
+  </artifact>
+</component>
