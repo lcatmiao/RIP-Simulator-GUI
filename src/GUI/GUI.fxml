@@ -10,7 +10,10 @@
    <top>
       <ImageView fitHeight="230.0" fitWidth="600.0" pickOnBounds="true" BorderPane.alignment="CENTER">
          <image>
-            <Image url="@../../resource/NetworkGraphYellow.png" />
+            <!-- If you want to show image in the Scene Builder, use this url. -->
+<!--            <Image url="@../../resource/img/NetworkGraph.png" />-->
+            <!-- If you want to show image when running, use this url. -->
+            <Image url="@../img/NetworkGraph.png" />
          </image>
       </ImageView>
    </top>
