@@ -4,7 +4,7 @@
 
 ## 界面
 
-<img src="https://img-host-lcatmiao.oss-cn-hangzhou.aliyuncs.com/202202241137312.jpg" style="zoom: 50%;" />
+<img src="https://img-host-lcatmiao.oss-cn-hangzhou.aliyuncs.com/202202241202013.png"  />
 
 ## 说明
 
@@ -16,7 +16,7 @@
 
 ## 距离向量算法
 
-![](https://img-host-lcatmiao.oss-cn-hangzhou.aliyuncs.com/202202241135782.png)
+![](https://img-host-lcatmiao.oss-cn-hangzhou.aliyuncs.com/202202241202549.png)
 
 ## Bug
 
